@@ -1,11 +1,11 @@
 # Maintainer: Onur BÜBER <onurbuber@engineer.com>
 
 pkgname=plymouth-theme-archlinux
-pkgver=1.1
+pkgver=1.0
 pkgrel=1
 pkgdesc="Plymouth Theme for Arch Linux (Similar to Manjaro)"
 arch=('any')
-url="https://github.com/onurbbr/plymouth-theme-archlinux"
+url="https://github.com/sandorkakuk/plymouth-theme-archlinux"
 license=('GPL')
 depends=('plymouth')
 install='plymouth-theme-archlinux.install'
