@@ -1,6 +1,6 @@
 #Set theme name
 
-name="archlinux"
+name="archi3"
 
 post_install() {
   echo 
