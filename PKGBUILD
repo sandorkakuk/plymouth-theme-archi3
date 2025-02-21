@@ -1,4 +1,5 @@
 # Maintainer: Onur BÜBER <onurbuber@engineer.com>
+# Maintainer: Sándor Kakuk
 
 pkgname=plymouth-theme-archi3
 pkgver=1.0
