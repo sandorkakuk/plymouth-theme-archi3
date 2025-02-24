@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=archlinux
+Name=archi3
 Description=Simple theme that preserves the vendor logo and shows a progressbar and watermark.
 ModuleName=two-step
 
 [two-step]
 Font=Cantarell 12
 TitleFont=Cantarell Light 30
-ImageDir=/usr/share/plymouth/themes/archlinux
+ImageDir=/usr/share/plymouth/themes/archi3
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.682
 TitleHorizontalAlignment=.5
